@@ -1,0 +1,45 @@
+.text-justify {
+    text-align: justify;
+  }
+  
+.jumbotron-background-color {
+    background-color: #f1f3ff;
+    color: black;
+
+}
+.box-biru {
+    position: absolute;
+    /* width: 500px;
+    height: 200px; */
+    background: #0D28A6;
+    /* left: 700px;
+    top: 385px; */
+    border-top-left-radius: 10rem;
+}
+.circle1 {
+    position: absolute;
+    width: 133px;
+    height: 133px;
+	background: #92D094;
+	border-radius: 100%;
+    top: 600px;
+}
+.circle2 {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+	background: #F9CC00;
+	border-radius: 100%;
+    top: 1000px;
+    left: 120px;
+}
+.circle3 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+	background: #FA2C5A;
+	border-radius: 100%;
+    left: 383px;
+    top: 660px;
+    left: 500px;
+}
